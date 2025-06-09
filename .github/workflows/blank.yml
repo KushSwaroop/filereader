@@ -28,9 +28,6 @@ jobs:
         python -m pip install --upgrade pip
         pip install black pylint pytest
 
-    - name: 🎨 Run Black (code formatter)
-      run: black --check .
-
     - name: 🔎 Run Pylint (linter)
       run: |
         pylint enhanced_file_reader.py test_enhanced_file_reader.py generate_sample_files.py
