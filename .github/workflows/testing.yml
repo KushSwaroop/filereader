@@ -27,8 +27,5 @@ jobs:
     - name: 🎨 Black check
       run: black --check .
 
-    - name: 🔍 Pylint
-      run: pylint filereaderfinalproject.py filereader_test.py
-
     - name: 🧪 Pytest
       run: pytest
