@@ -1,0 +1,180 @@
+1. Abashiri, Japan – Okhotsk sweet corn
+2. Adana, Turkey – Adana cucumbers
+3. Adelaide, Australia – Quinces
+4. Ahmedabad, India – Kesar mangoes
+5. Alba, Italy – White truffles
+6. Albuquerque, USA – New Mexico green chile
+7. Alexandria, Egypt – Date palms
+8. Alicante, Spain – Navelina oranges
+9. Almaty, Kazakhstan – Aport apples
+10. Ambato, Ecuador – Chirimoya
+11. Anaheim, USA – Anaheim peppers
+12. Antalya, Turkey – Finike oranges
+13. Asheville, USA – Ramp onions
+14. Aydın, Turkey – Sarılop figs
+15. Bagalkot, India – Pomegranates
+16. Baie-Comeau, Canada – Wild blueberries
+17. Baliuag, Philippines – Carabao mango
+18. Baltimore, USA – Silver Queen corn
+19. Bandundu, DR Congo – Cassava
+20. Bangkok, Thailand – Nam Dok Mai mangoes
+21. Bari, Italy – Cime di rapa
+22. Batam, Indonesia – Dragon fruit
+23. Baton Rouge, USA – Satsuma mandarins
+24. Battambang, Cambodia – Romduol mango
+25. Badajoz, Spain – Pimentón peppers
+26. Beersheba, Israel – Medjool dates
+27. Beirut, Lebanon – Citrus lemons
+28. Belém, Brazil – Açaí berries
+29. Belfast, UK – Comber potatoes
+30. Belgrade, Serbia – Ajvar peppers
+31. Belo Horizonte, Brazil – Jabuticaba
+32. Bendigo, Australia – Goldfields pears
+33. Bergen, Norway – Cloudberries
+34. Berlin, Germany – White asparagus
+35. Bern, Switzerland – Bernese apricots
+36. Bilbao, Spain – Gernika peppers
+37. Birmingham, UK – Purple-sprouting broccoli
+38. Bobo-Dioulasso, Burkina Faso – Shea fruit
+39. Bogor, Indonesia – Star fruit
+40. Bologna, Italy – Borettane onions
+41. Bordeaux, France – Merlot grapes
+42. Boston, USA – Cranberries
+43. Braga, Portugal – Vinho Verde grapes
+44. Brasília, Brazil – Pequi fruit
+45. Brisbane, Australia – Bowen mangoes
+46. Bristol, UK – Somerset cider apples
+47. Brussels, Belgium – Witloof chicory
+48. Bucharest, Romania – Sweet peppers
+49. Budapest, Hungary – Hungarian wax peppers
+50. Busan, South Korea – Korean melons
+51. Bursa, Turkey – Chestnuts
+52. Cádiz, Spain – Almadraba tomatoes
+53. Cairo, Egypt – Molokhia leaves
+54. Calgary, Canada – Saskatoon berries
+55. Cali, Colombia – Lulo fruit
+56. Campinas, Brazil – Cambuci fruit
+57. Canberra, Australia – Black truffles
+58. Cancún, Mexico – Naranja agria
+59. Cape Town, South Africa – Chenin Blanc grapes
+60. Carpentras, France – Gariguette strawberries
+61. Casablanca, Morocco – Clementines
+62. Catania, Italy – Sicilian blood oranges
+63. Cebu City, Philippines – Cebu mangoes
+64. Changsha, China – Hunan oranges
+65. Chandigarh, India – Kinnow mandarins
+66. Chelyabinsk, Russia – Black currants
+67. Chengdu, China – Pixian chili peppers
+68. Chiang Mai, Thailand – Longan
+69. Chiclayo, Peru – Goldenberries
+70. Chicago, USA – Rainbow chard
+71. Chittagong, Bangladesh – Jackfruit
+72. Chongqing, China – Szechuan peppercorns
+73. Christchurch, New Zealand – Canterbury cherries
+74. Cluj-Napoca, Romania – Blueberries
+75. Coimbra, Portugal – Pera Rocha pears
+76. Colombo, Sri Lanka – King coconuts
+77. Concepción, Chile – Bío-Bío raspberries
+78. Córdoba, Argentina – Quinotos (kumquats)
+79. Córdoba, Spain – Eggplants
+80. Cork, Ireland – Kerr’s Pink potatoes
+81. Cosenza, Italy – Dottato figs
+82. Curitiba, Brazil – Pinhão (pine nuts)
+83. Dakar, Senegal – Ditakh fruit
+84. Dallas, USA – 1015 sweet onions
+85. Da Nang, Vietnam – Dragon fruit
+86. Dalian, China – Dalian apples
+87. Damascus, Syria – Damask apricots
+88. Dar es Salaam, Tanzania – Mchicha greens
+89. Davenport, USA – Sweet corn
+90. Debrecen, Hungary – Hot paprika peppers
+91. Denizli, Turkey – Sultaniye grapes
+92. Denver, USA – Colorado peaches
+93. Detroit, USA – Detroit Dark Red beets
+94. Dhaka, Bangladesh – Langra mango
+95. Dili, Timor-Leste – Dili bananas
+96. Dijon, France – Burgundy blackcurrants
+97. Dnipro, Ukraine – Watermelons
+98. Doha, Qatar – Sidra figs
+99. Dongguan, China – Lychee
+100. Douala, Cameroon – Soursop
+101. Dubai, UAE – Dates
+102. Dublin, Ireland – Rhubarb
+103. Durban, South Africa – Natal bananas
+104. Dushanbe, Tajikistan – Pomegranates
+105. Edmonton, Canada – Honeycrisp apples
+106. Enugu, Nigeria – Ugwu leaves
+107. Erbil, Iraq – Kurdish pomegranates
+108. Eskisehir, Turkey – Eskisehir apples
+109. Espoo, Finland – Lingonberries
+110. Essen, Germany – Rhubarb
+111. Faro, Portugal – Algarve oranges
+112. Faisalabad, Pakistan – Kinnow oranges
+113. Fargo, USA – Red River potatoes
+114. Fes, Morocco – Picholine olives
+115. Florianópolis, Brazil – Banana-da-terra
+116. Florence, Italy – Cavolo nero
+117. Foshan, China – Pineapples
+118. Fukuoka, Japan – Amaou strawberries
+119. Gaborone, Botswana – Kalahari melons
+120. Galway, Ireland – Baby potatoes
+121. Gaziantep, Turkey – Pistachios
+122. Genoa, Italy – Basil
+123. Gijón, Spain – Cider apples
+124. Girona, Spain – Girona apples
+125. Glasgow, UK – Neep (turnip)
+126. Goa, India – Cashew apples
+127. Goiânia, Brazil – Pequi fruit
+128. Guangzhou, China – Lychee
+129. Guayaquil, Ecuador – Bananas
+130. Guilin, China – Shatian pomelo
+131. Guimarães, Portugal – Minho peaches
+132. Gwalior, India – Guava
+133. Haifa, Israel – Carmel tomatoes
+134. Halifax, Canada – Wild blueberries
+135. Hamburg, Germany – Finkenwerder apples
+136. Hamilton, New Zealand – Waikato strawberries
+137. Hanoi, Vietnam – Dragon fruit
+138. Harare, Zimbabwe – Mazowe oranges
+139. Harrisburg, USA – Sweet corn
+140. Hartford, USA – UConn tomatoes
+141. Hat Yai, Thailand – Durian
+142. Havana, Cuba – Plantains
+143. Helsinki, Finland – Bilberries
+144. Heraklion, Greece – Mírtos tomatoes
+145. Hiroshima, Japan – Setouchi lemons
+146. Ho Chi Minh City, Vietnam – Nam Roi pomelo
+147. Hobart, Australia – Huon Valley apples
+148. Hong Kong, China – Custard apples
+149. Honolulu, USA – Pineapples
+150. Houston, USA – Ruby Red grapefruit
+151. Hyderabad, India – Banganapalli mangoes
+152. Ibadan, Nigeria – Cashew apples
+153. Istanbul, Turkey – Yedikule lettuce
+154. Izmir, Turkey – Sultana grapes
+155. Jaipur, India – Jamun fruit
+156. Jakarta, Indonesia – Salak (snake fruit)
+157. Jamestown, USA – Concord grapes
+158. Jeddah, Saudi Arabia – Dates
+159. Jeonju, South Korea – Kongnamul sprouts
+160. Johannesburg, South Africa – Peaches
+161. Juneau, USA – Salmonberries
+162. Kalamata, Greece – Kalamata olives
+163. Kampala, Uganda – Matoke bananas
+164. Kanazawa, Japan – Lotus root
+165. Kansas City, USA – Strawberries
+166. Karachi, Pakistan – Sindhri mangoes
+167. Kathmandu, Nepal – Junar oranges
+168. Kaunas, Lithuania – Apples
+169. Kawasaki, Japan – Mikan oranges
+170. Kayseri, Turkey – Develi apricots
+171. Kelowna, Canada – Okanagan cherries
+172. Kharkiv, Ukraine – Sour cherries
+173. Kigali, Rwanda – Passion fruit
+174. Kingston, Jamaica – Ackee
+175. Kinshasa, DR Congo – Cassava leaves
+176. Kitchener, Canada – Sweet corn
+177. Kobe, Japan – Tamba chestnuts
+178. Kochi, India – Nendran bananas
+179. Kraków, Poland – Łąckie apples
+180. Kumasi, Ghana – Cocoa pods

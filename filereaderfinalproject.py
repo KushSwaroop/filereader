@@ -2,6 +2,7 @@ import itertools
 import tempfile
 from pathlib import Path
 from termcolor import colored
+import re
 
 
 # Simple colorized output decorator
@@ -32,7 +33,7 @@ class FileReader:  # basic file reader class
         self._filepath = Path(path_str)
 
     def _line_gen(self):
-        with self._filepath.open("r") as file:
+        with self._filepath.open("r", encoding="utf-8") as file:
             for line in file:
                 yield line.strip()
 
@@ -52,7 +53,7 @@ class FileReader:  # basic file reader class
 
     def __add__(self, other):
         with tempfile.NamedTemporaryFile(delete=False, mode="w", suffix=".txt") as tmp:
-            with self._filepath.open() as f1, other._filepath.open() as f2:
+            with self._filepath.open(encoding="utf-8") as f1, other._filepath.open(encoding="utf-8") as f2:
                 tmp.writelines(f1.readlines() + f2.readlines())
             return FileReader(tmp.name)
 
@@ -65,7 +66,7 @@ class FancyFileReader(FileReader):
     def concat_many(self, *files):
         with tempfile.NamedTemporaryFile(delete=False, mode="w", suffix=".txt") as tmp:
             for file in (self, *files):
-                with file.filepath.open() as f:
+                with file.filepath.open(encoding="utf-8") as f:
                     tmp.writelines(f.readlines())
             return FancyFileReader(tmp.name)
 
@@ -76,8 +77,6 @@ class FancyFileReader(FileReader):
             if query.lower() in line.lower():
                 found = True
                 # Case-insensitive replacement
-                import re
-
                 pattern = re.compile(re.escape(query), re.IGNORECASE)
                 highlighted = pattern.sub(
                     colored(query, highlight_color, attrs=["bold"]), line
@@ -89,8 +88,8 @@ class FancyFileReader(FileReader):
 
 # Interactive usage
 if __name__ == "__main__":
-    venv_dir = Path("venv")
-    venv_dir.mkdir(exist_ok=True)
+    search_dir = Path("search")
+    search_dir.mkdir(exist_ok=True)
 
     file_defaults = {
         "fruit_vegetables_big.txt": "Apple\nBanana\nCarrot\n",
@@ -98,17 +97,12 @@ if __name__ == "__main__":
         "cities_fruits.txt": "London\nOrange\nTokyo\nGrape\n",
     }
     for fname, content in file_defaults.items():
-        path = venv_dir / fname
+        path = search_dir / fname
         if not path.exists():
             with path.open("w") as f:
                 f.write(content)
 
-    # Create readers for predefined files in venv
-    f1 = FancyFileReader(str(venv_dir / "fruit_vegetables_big.txt"))
-    f2 = FancyFileReader(str(venv_dir / "countries_cities.txt"))
-    f3 = FancyFileReader(str(venv_dir / "cities_fruits.txt"))
-
-    query = input("Enter a string to search in file1, file2, and file3: ").strip()
+    query = input("Enter a string to search in all files in the 'venv' folder: ").strip()
 
     valid_colors = [
         "red",
@@ -126,7 +120,7 @@ if __name__ == "__main__":
         print(f" Invalid color. Defaulting to 'red'.")
         color = "red"
 
-    # Search in each file
-    f1.search_string(query, color)
-    f2.search_string(query, color)
-    f3.search_string(query, color)
+    # Search in all files in the 'venv' folder
+    for file_path in search_dir.glob("*.txt"):
+        reader = FancyFileReader(str(file_path))
+        reader.search_string(query, color)
