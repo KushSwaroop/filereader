@@ -53,7 +53,9 @@ class FileReader:  # basic file reader class
 
     def __add__(self, other):
         with tempfile.NamedTemporaryFile(delete=False, mode="w", suffix=".txt") as tmp:
-            with self._filepath.open(encoding="utf-8") as f1, other._filepath.open(encoding="utf-8") as f2:
+            with self._filepath.open(encoding="utf-8") as f1, other._filepath.open(
+                encoding="utf-8"
+            ) as f2:
                 tmp.writelines(f1.readlines() + f2.readlines())
             return FileReader(tmp.name)
 
@@ -102,7 +104,9 @@ if __name__ == "__main__":
             with path.open("w") as f:
                 f.write(content)
 
-    query = input("Enter a string to search in all files in the 'venv' folder: ").strip()
+    query = input(
+        "Enter a string to search in all files in the 'venv' folder: "
+    ).strip()
 
     valid_colors = [
         "red",
@@ -120,7 +124,6 @@ if __name__ == "__main__":
         print(f" Invalid color. Defaulting to 'red'.")
         color = "red"
 
-    # Search in all files in the 'venv' folder
     for file_path in search_dir.glob("*.txt"):
         reader = FancyFileReader(str(file_path))
         reader.search_string(query, color)
